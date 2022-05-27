@@ -104,7 +104,8 @@ p{
     word-wrap: break-word;
 }
 img{
-    max-width:100%;
+    height: 300px;
+    width: 600px;
 }
 .square {
     min-height: 120px;
